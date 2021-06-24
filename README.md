@@ -11,3 +11,4 @@ This repo consists of short exercises on TDD using Jest.
 - sumAll
 - leapYears
 - tempConversion
+- fibonacci (No Memoization)
