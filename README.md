@@ -12,3 +12,7 @@ This repo consists of short exercises on TDD using Jest.
 - leapYears
 - tempConversion
 - fibonacci (No Memoization)
+- calculator
+- palindromes
+- getTheTitles
+- findTheOldest (Very hacky solution)
